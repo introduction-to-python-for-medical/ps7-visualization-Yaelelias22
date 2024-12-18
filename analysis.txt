@@ -1,1 +1,2 @@
 
+for the selected features I chose the Alcohol and Proloin, we can see a somewhat linear correlation, the higher the alcohol percentage in the wine the higher the amino acid Prolin amount.
